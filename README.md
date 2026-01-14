@@ -41,7 +41,8 @@ This repository contains reference code for the Data Mining and Knowledge Proces
 2. 按照实验指导运行相应代码 / Run the code according to lab instructions
 3. 参考代码仅供学习，请勿直接抄袭 / Reference code is for learning purposes only, do not copy directly
 4. 实验三在分支中，
-5. 
+5. main.zip文件是实验一的部分
+   
 
 ## 注意事项 / Notes
 
