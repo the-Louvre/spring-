@@ -40,6 +40,8 @@ This repository contains reference code for the Data Mining and Knowledge Proces
 1. 克隆仓库 / Clone the repository
 2. 按照实验指导运行相应代码 / Run the code according to lab instructions
 3. 参考代码仅供学习，请勿直接抄袭 / Reference code is for learning purposes only, do not copy directly
+4. 实验三在分支中，
+5. 
 
 ## 注意事项 / Notes
 
